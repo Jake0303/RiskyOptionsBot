@@ -1,0 +1,2 @@
+APScheduler==3.7.0
+ib_insync==0.9.69
