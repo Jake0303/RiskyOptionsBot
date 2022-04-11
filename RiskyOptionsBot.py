@@ -1,3 +1,5 @@
+# Jacob Amaral Youtube
+# https://www.youtube.com/channel/UC3GoIgz6agdJzFNZWJrIR6g
 #Imports
 from datetime import datetime
 from ib_insync import *
